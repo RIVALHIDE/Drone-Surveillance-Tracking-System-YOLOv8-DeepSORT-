@@ -11,7 +11,18 @@ Turn any drone into a smart surveillance platform. SkyWatch AI detects, tracks, 
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
+## Upload :
 
+<img width="1919" height="889" alt="image" src="https://github.com/user-attachments/assets/9ec9f4db-7dd7-44f3-8ee7-c98c1068a977" />
+<img width="1904" height="887" alt="image" src="https://github.com/user-attachments/assets/5cea0a06-cca3-4862-aa25-644cfc3fd0b3" />
+
+---
+## Live :
+
+<img width="1908" height="887" alt="image" src="https://github.com/user-attachments/assets/3cd079a4-e651-49da-94da-0063190f9cef" />
+<img width="1898" height="838" alt="image" src="https://github.com/user-attachments/assets/803665fc-b661-41b6-99e6-eb2f5b53753c" />
+
+---
 ## Features
 
 ### Detection & Tracking

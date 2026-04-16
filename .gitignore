@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pt
+*.onnx
+.claude/
+assets/*.mp4
+assets/*.avi
+assets/*.mov
+*.tmp
+.env
